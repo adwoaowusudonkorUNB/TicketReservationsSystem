@@ -1,0 +1,2 @@
+- Add the jar file in /data/jar as a dependency.
+- Create the database using the reservations sql file in /data
